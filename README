@@ -1,3 +1,5 @@
+#Conky Rings Working Theme
+
 Hi,
 
 The whole setup is based on Conky Revamped theme by trollpunny on www.devianart.com. However, some modification are already available in the web but i made some changes in the code working fine on arch linux with kde plasma 5 as a desktop environment.
@@ -30,3 +32,5 @@ My enhancements to the original theme:
 	- Changed the Conky window settings to make the background transparent.
 	- Fixed the repeated "conky: unknown variable" error in the console upon execution of the script
 	- A few more minor changes in font and positioning that I probably will remember after I've uploaded it. :D
+	
+![Screen Shot 1](Screenshot.png)
