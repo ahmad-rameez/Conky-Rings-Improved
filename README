@@ -1,8 +1,6 @@
-
 Hi,
 
 The whole setup is based on Conky Revamped theme by trollpunny on www.devianart.com. However, some modification are already available in the web but i made some changes in the code working fine on arch linux with kde plasma 5 as a desktop environment.
-
 
 There are four separate Conky widgets in the whole setup:
 	- the main one with rings
