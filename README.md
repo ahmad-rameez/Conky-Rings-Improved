@@ -1,4 +1,4 @@
-#Conky Rings Working Theme
+# Conky Rings Working Theme
 
 Hi,
 
