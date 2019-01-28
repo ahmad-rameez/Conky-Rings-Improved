@@ -33,5 +33,5 @@ My enhancements to the original theme:
 	- Fixed the repeated "conky: unknown variable" error in the console upon execution of the script
 	- A few more minor changes in font and positioning that I probably will remember after I've uploaded it. :D
 
-</br>
+
 ![Screen Shot 1](Screenshot.png)
